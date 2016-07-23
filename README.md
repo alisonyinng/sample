@@ -6,3 +6,5 @@
 * Reproducible Research
 * Statistical Inference
 * Regression Model
+
+Git is easy. Git is fun. :-P Thanks Linus ;-)
